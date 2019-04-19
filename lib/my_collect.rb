@@ -15,5 +15,5 @@ def my_collect(array)
   end
 collection
 end
- 
+
 my_collect(family) {|i| "Hi, I'm #{i} ."}
